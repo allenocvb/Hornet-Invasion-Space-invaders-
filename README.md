@@ -1,4 +1,6 @@
-![Invaders Demo](https://i.imgur.com/QZPiPoO.mp4)
+Full Demo: https://i.imgur.com/QZPiPoO.mp4
+
+![Invaders Demo](https://i.imgur.com/QZPiPoO.gif)
 
 # Hornet Invasion
 
