@@ -1,6 +1,6 @@
 Full Demo: https://i.imgur.com/QZPiPoO.mp4
 
-![Invaders Demo](//imgur.com/a/6M4rDVp)
+<img width="1198" alt="HornetInvasionImg" src="https://github.com/user-attachments/assets/169e08f1-921e-4b14-99b8-787b030da794">
 
 # Hornet Invasion
 
