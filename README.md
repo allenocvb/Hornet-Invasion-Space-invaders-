@@ -1,6 +1,4 @@
-https://imgur.com/a/6M4rDVp#QZPiPoO
-
-[Check out my GIF](https://imgur.com/a/6M4rDVp)
+![Invaders Demo](https://i.imgur.com/SPECIFICIMAGE.gif)
 
 # Hornet Invasion
 
